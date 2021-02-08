@@ -1,0 +1,8 @@
+Nitesh, Rathee, Jasbir, Raj Bala, nitesh@xyz.com, 999999999, 12, A
+Mrinal, Rawat, RS Rawat, Nirmala, mrinal@abc.com, 98787898, 12, B
+Aman, Sharma, SC Sharma, Kiran Sharma, aman@abc.com, 767856546, 10, A
+Sahil, Rathi, jasbir Singh, Raj Bala, sahil@acb.com, 874687847, 11, A
+Vinay, Rathee, Jasbir Singh, Raj Bala, vinay@xyz.com, 95874289, 11, B
+Mohak, Chadha, Unknown, Unknown, mohak@abc.com, 9676767967, 10, B
+Manjinder, Cheema, Iqbal Singh, Parminder Kaur, mani@xyz.com, 87546975, 10, B
+Akshita, Rawat, RS Rawat, Nirmala Rawat, akshita@xyz.com, 876875635, 10, A
